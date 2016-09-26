@@ -6,7 +6,7 @@ Install pip
 
 To install pip, securely download `get-pip.py.`_
 
-Then run the following (which may require administrator access)::
+Then run the following (which may require administrator access):
 
       python get-pip.py
 
@@ -36,3 +36,5 @@ Testing the application
 ------------
 
     http://127.0.0.1:5000
+    
+.. _`get-pip.py.`: https://bootstrap.pypa.io/get-pip.py    
